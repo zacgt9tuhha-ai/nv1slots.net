@@ -1,0 +1,13 @@
+{
+  "name": "Nv1 Casino",
+  "short_name": "Nv1 Casino",
+  "description": "Nv1 Casino – Entdecke das ultimative Spielerlebnis | Online Gaming",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/fav.png",
+      "type": "image/png"
+    }
+  ]
+}
